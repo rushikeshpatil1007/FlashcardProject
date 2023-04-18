@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+1)Almabetter capston project - Flashcard Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2)click on the link to open Flashcard generator ( project)
 
-## Available Scripts
+link =  https://flashcardproject-rushikesh-p.netlify.app/
 
-In the project directory, you can run:
+3)youtube video
 
-### `npm start`
+link =
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4)Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Reactjs,
+React-Router-Dom
+React Formik & Yup,
+React-icons,
+Redux &  Toolkit,
+TailwindCSS,
 
-### `npm test`
+5)About The Project Flashcard
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##This project is created with Reactjs , In this project we have three pages ##
 
-### `npm run build`
+create Flashcard page
+My Flashcard page
+Flashcad Details page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+create flashcard page= In create Flashcard page we used a Formik for creating input boxes and for the validation we used Yup.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+My Flashcard page= For the My flashcard page we saparately design My Flashcard UI component and use mapping to show flashcard
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+FlashcardDetails page = in the page we write a code for displaying Number of cards and details of cards and in the page we also
 
-### `npm run eject`
+6)Skills
+Reactjs ,Javascript, HTML, CSS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+7)Features
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Add More Input Box
+Delete button
+Edit Input box
+View flashcards  
+ Upload Image
+Share flashcard
+Social Media Buttoon's
+See all flashcards
+Back Button
+close button for closing share page
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+8 ) how to use
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Open flashcard generator will clicking deployment Link
 
-## Learn More
+Click on the "create New" link and fill up all the input boxes without any Errors and click on "create" button
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+For the Viewing Details of flashcard click on "view card" button showes on the flashcard this will show the details of flashcard and number of cards with is's description and also we have "share" button to copy link with all social media icons(Links) working
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+For the viewing Currently created flashcard click on "My flashcard" link this will show all flashcard you created recently
