@@ -36,9 +36,9 @@ const MyFlashCard = () => {
         // if there is no flashcard this text with createflashcard link will render
         <div className="flex items-center justify-center  shadow-lg p-20">
           <h1 className="font-semibold text-xl text-blue-600">
-             Go to
+             
             <span
-              className="text-red-500 cursor-pointer"
+              className="text-black-500 cursor-pointer"
               onClick={() => navigate("/")}
             >
               CREATE NEW FLASHCARD

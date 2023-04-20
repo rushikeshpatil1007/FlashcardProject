@@ -2,13 +2,13 @@
 
 2)click on the link to open Flashcard generator ( project)
 
-link =  https://flashcardproject-rushikesh-p.netlify.app/
+link =  https://flashcard-project-rushikesh-p.netlify.app/
 
 3)youtube video
 
-link =
+link =https://www.youtube.com/watch?v=auANW6Mhn0Y
 
-4)Tech Stack
+4)Tech 
 
 Reactjs,
 React-Router-Dom
@@ -45,7 +45,7 @@ Share flashcard
 Social Media Buttoon's
 See all flashcards
 Back Button
-close button for closing share page
+
 
 8 ) how to use
 

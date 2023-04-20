@@ -122,7 +122,7 @@ const CreateFlashCard = () => {
             </div>
           </div>
 
-          {/*----------------------- Add more terms , defination   ----------------------- */}
+          {/* Add more terms   */}
 
           <div className="text-black drop-shadow-lg ">
             <FieldArray name="cards">
@@ -162,7 +162,7 @@ const CreateFlashCard = () => {
                               </div>
                               <div className="relative flex flex-col justify-center space-y-3">
                                 <label htmlFor="enterDefinaton" className="">
-                                  Enter Defination
+                                  Enter Definition 
                                 </label>
                                 <Field
                                   as="textarea"
