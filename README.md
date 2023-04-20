@@ -8,6 +8,7 @@ link =  https://flashcard-project-rushikesh-p.netlify.app/
 
 link =https://www.youtube.com/watch?v=auANW6Mhn0Y
 
+Github link = https://github.com/rushikeshpatil1007/FlashcardProject
 4)Tech 
 
 Reactjs,
